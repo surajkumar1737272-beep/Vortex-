@@ -1,0 +1,13 @@
+pyTelegramBotAPI
+Telethon
+Flask
+firebase-admin
+ping3
+requests
+aiohttp
+httpx
+cryptography
+Pillow
+qrcode
+psutil
+gunicorn
