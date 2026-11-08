@@ -1,5 +1,5 @@
 pyTelegramBotAPI
-Telethon
+Telethon-MCUB
 Flask
 firebase-admin
 ping3
